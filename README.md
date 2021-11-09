@@ -14,3 +14,9 @@ npm run generate
 ```
 npm run server
 ```
+
+```
+visit 
+http://localhost:3000/member
+http://localhost:3000/user
+```
